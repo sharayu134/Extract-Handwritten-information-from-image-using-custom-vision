@@ -1,0 +1,1 @@
+# Extract-Handwritten-information-from-image-using-custom-vision
